@@ -15,10 +15,10 @@ const Message = () => {
         </h1>
         <p className="text-xl text-gray-700 leading-relaxed mb-6">
           Happy Anniversary to the two beautiful souls who brought you into this world — the same souls I silently thank every single day.<br></br>
-You know what? I'm not just lucky to have you… I’m incredibly blessed to have become a small part of a family that raised someone as pure, kind, and full of love as you.
-Your mom and dad’s bond is not just a milestone — it’s a reflection of the kind of love I dream of having with you someday.
-Through you, I feel the warmth of your whole family… your mom’s kindness, your dad’s strength, your brother’s energy — it’s like I’ve found a second home in you.
-So today, I celebrate them… and I celebrate you.Because you’re not just a gift to me, you're the most precious piece of their love story.
+You know what? I'm not just lucky to have you… I’m incredibly blessed to have become a small part of a family that raised someone as pure, kind, and full of love as you.<br></br>
+Your Mumma and Papa’s bond is not just a milestone — it’s a reflection of the kind of love I dream of having with you someday.<br></br>
+Through you, I feel the warmth of your whole family… your mom’s kindness, your dad’s strength, your brother’s energy — it’s like I’ve found a second home in you.<br></br>
+So today, I celebrate them… and I celebrate you.<br></br>Because you’re not just a gift to me, you're the most precious piece of their love story.<br></br>
 Tell them from my heart — Happy Anniversary, and thank you…for giving me you. 🕊️❤️"
         </p>
         <p className="text-lg text-pink-600 font-semibold">
